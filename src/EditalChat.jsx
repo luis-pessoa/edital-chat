@@ -66,7 +66,8 @@ b) Taxa de Publicação em Revistas Científicas:
 
 IMPORTANTE:
  - Esta versão considera a ERRATA 01 de 20/01/2025 que atualizou o limite de reembolso para taxa de publicação de sem limite especificado para R$ 15.000,00.
- - Print de Telas não são aceitos como documentos comprobatórios
+ - Print de Telas não são aceitos como documentos comprobatórios.
+ - Apenas Técnico-Administrativos e Docentes da UFBA podem solicitar o apoio.
 `;
 
   const quickQuestions = [
