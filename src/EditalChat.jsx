@@ -44,7 +44,7 @@ b) Taxa de Publicação em Revistas Científicas:
 4. DOCUMENTOS NECESSÁRIOS (APENAS ESTES DOCUMENTOS SERÃO ACEITOS):
 - Formulário próprio no SIPAC ("Formulário – Edital Apoio à Publicação Científica")
 - Nota fiscal ou invoice em nome do requerente
-- Comprovante de pagamento em nome do requerente (fatura cartão, comprovante bancário)
+- Comprovante de pagamento em nome do requerente (fatura cartão de crédito ou comprovante de transferência bancária)
 - Comprovante de submissão da revista
 - Versão final do manuscrito
 - Comprovação do maior percentil em PDF
@@ -64,7 +64,9 @@ b) Taxa de Publicação em Revistas Científicas:
 8. CONTATO:
 - E-mail: coordfopg@ufba.br
 
-IMPORTANTE: Esta versão considera a ERRATA 01 de 20/01/2025 que atualizou o limite de reembolso para taxa de publicação de sem limite especificado para R$ 15.000,00.
+IMPORTANTE:
+ - Esta versão considera a ERRATA 01 de 20/01/2025 que atualizou o limite de reembolso para taxa de publicação de sem limite especificado para R$ 15.000,00.
+ - Print de Telas não são aceitos como documentos comprobatórios
 `;
 
   const quickQuestions = [
