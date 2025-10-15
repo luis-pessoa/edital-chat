@@ -41,7 +41,7 @@ b) Taxa de Publicação em Revistas Científicas:
 - Taxa de Publicação: até R$ 15.000,00 por artigo (ATUALIZADO PELA ERRATA 01)
 - Manuscritos submetidos a prestadores especializados (pessoa jurídica) com competência linguística
 
-4. DOCUMENTOS NECESSÁRIOS:
+4. DOCUMENTOS NECESSÁRIOS (APENAS ESTES DOCUMENTOS SERÃO ACEITOS):
 - Formulário próprio no SIPAC ("Formulário – Edital Apoio à Publicação Científica")
 - Nota fiscal ou invoice em nome do requerente
 - Comprovante de pagamento em nome do requerente (fatura cartão, comprovante bancário)
