@@ -82,7 +82,7 @@ const EditalChat = () => {
     9. CONTATO:
     - E-mail: finpropg@ufba.br
 
-    Data de publicação: Salvador, 24 de fevereiro de 2026
+    Data de publicação: Salvador, 24 de fevereiro de 2026.
   `;
 
   const quickQuestions = [
