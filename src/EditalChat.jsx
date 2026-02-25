@@ -6,7 +6,7 @@ const EditalChat = () => {
     {
       type: "assistant",
       content:
-        "Olá! 👋 Sou o seu assistente virtual para o Edital 02/2025 PRPPG/UFBA - Programa de Apoio à Publicações Científicas. Estou aqui para esclarecer suas dúvidas sobre requisitos, prazos, valores e procedimentos. Como posso ajudar?",
+        "Olá! 👋 Sou o seu assistente virtual para o Edital 11/2026 PRPPG/UFBA - Programa de Apoio à Publicações Científicas. Estou aqui para esclarecer suas dúvidas sobre requisitos, prazos, valores e procedimentos. Como posso ajudar?",
     },
   ]);
   const [input, setInput] = useState("");
@@ -207,7 +207,7 @@ const EditalChat = () => {
           <div>
             <h1 className="text-2xl font-bold">Assistente Virtual - PRPPG</h1>
             <p className="text-blue-100 text-sm">
-              Programa de Apoio à Publicações Científicas 02/2025
+              Programa de Apoio à Publicações Científicas 11/2026
             </p>
           </div>
         </div>
