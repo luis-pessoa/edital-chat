@@ -37,7 +37,7 @@ const EditalChat = () => {
     2. CRITÉRIOS DE ELEGIBILIDADE:
     - Pertencer ao quadro permanente da UFBA (docente ou técnico-administrativo)
     - Constar como autor ou coautor do artigo
-    - Não serão financiadas taxas de publicação de artigos aceitos em periódicos contemplados pelos Acordos Transformativos firmados pela CAPES e vigentes à época da submissão ou da aceitação do manuscrito, conforme informações disponíveis no Portal de Periódicos da CAPES, cabendo ao solicitante verificar previamente se o periódico está coberto por tais acordos, sendo indeferidas as solicitações que se enquadrem nessa condição.
+    - Não serão financiadas taxas de publicação de artigos aceitos em periódicos contemplados pelos Acordos Transformativos firmados pela CAPES e vigentes à época da submissão ou da aceitação do manuscrito, conforme informações disponíveis no Portal de Periódicos da CAPES, cabendo ao solicitante verificar previamente se o periódico está coberto por tais acordos,sendo indeferidas as solicitações que se enquadrem nessa condição.
     - UFBA deve obrigatoriamente figurar como instituição de origem de um dos autores
     - Ter recebido confirmação de submissão do manuscrito pelo periódico
 
